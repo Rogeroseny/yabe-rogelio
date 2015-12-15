@@ -1,0 +1,6 @@
+# Application dependencies
+
+require:
+    - play 1.3.2
+    - crud
+    - secure
